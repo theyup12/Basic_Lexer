@@ -1,0 +1,9 @@
+token                  lexeme
+-----------------------------
+keyword:            int, for, int, while, cout, return
+separator:            (, ), {, (, ), {, (, ), {, }, }, }
+identifier:            main, i, i, i, i, i
+operator:            =, <=, =, +, ==, <<
+Integer:            22, 100, 1, 100, 0
+real:            
+punctuation:            ;, ;, ;, ;
