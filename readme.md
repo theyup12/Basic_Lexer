@@ -1,5 +1,3 @@
-https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/
-
 # Build a Lexer
 # CPSC 323 - Compilers & Languages 
 
